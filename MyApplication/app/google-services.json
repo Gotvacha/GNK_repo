@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "524613889198",
+    "project_id": "balkantravel-2dd71",
+    "storage_bucket": "balkantravel-2dd71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524613889198:android:8e57067d67e5537547113f",
+        "android_client_info": {
+          "package_name": "com.balkan.travel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm6UJWWFJqMdcVI3YGvh4wwx9w-UrIOXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524613889198:android:1e5ae6c5823faeaf47113f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm6UJWWFJqMdcVI3YGvh4wwx9w-UrIOXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
