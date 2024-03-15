@@ -1,9 +1,9 @@
-**HackTues X - Back to the Roots **
+**HackTues X - Back to the Roots**
 
 ![image](https://github.com/Gotvacha/GNK_repo/assets/107467830/54d067ff-e1ff-4b8c-9772-161bb52d6c0c)
 
 
-**Selected subtopic: **
+**Selected subtopic:**
 
 ![image](https://github.com/Gotvacha/GNK_repo/assets/107467830/0d024ceb-7f46-47f5-b02b-d0cbf079fca3)
 
