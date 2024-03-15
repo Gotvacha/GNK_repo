@@ -11,8 +11,8 @@
 **Project description:**
 
 This is a Web and Mobile Application, built using React.js and Java.
-
 Balkan Travel is a convenient and innovative Mobile/Web application that provides users with information and assistance in their travels from one place to another. With the help of an interactive map, users can plan their trip, seeing the route, the different currencies and fees and the vignettes in each Balkan country. The app is easy to use and accessible to any user, with the option to see past travels, universities and traditional dishes in every single country in the Balkans.
+
 
 
 **Team:**
